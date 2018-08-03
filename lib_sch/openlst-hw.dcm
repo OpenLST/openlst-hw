@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VCC_3V3_USB
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VCC_3V6
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VCC_USB
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library

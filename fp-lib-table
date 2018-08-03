@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name openlst)(type KiCad)(uri "$(KIPRJMOD)/footprints/openlst.pretty")(options "")(descr ""))
+  (lib (name archive)(type KiCad)(uri "$(KIPRJMOD)/footprints/archive.pretty")(options "")(descr ""))
+)
