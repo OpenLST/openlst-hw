@@ -20,7 +20,7 @@ Contents
 
 This repository contains the following items:
 
-  * [KiCAD 4.0](http://kicad-pcb.org/) project with self-contained part library
+  * [KiCAD 4.0](https://kicad.org/) project with self-contained part library
   * [Schematic](pdf/openlst-hw.pdf) in PDF form
   * [Bill of materials](bom/) with ordering information for components
   * [Gerber files](gerber/) for PCB fabrication
